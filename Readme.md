@@ -40,3 +40,7 @@ Portfólio desenvolvido para ajudá-lo a exibir e compartilhar facilmente seus t
 <h1 align="center">
   <img alt="Dev de Sucesso" src="github/logo.png" width="30">
 </h1>
+
+## ⚙️ Configurações
+
+Siga a documentação do [Github pages](https://pages.github.com/) para configurar e gerar build do seu site!.
