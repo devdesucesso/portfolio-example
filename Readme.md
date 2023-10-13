@@ -1,8 +1,4 @@
 ## Portfólio Responsivo 
-<h1 align="center">
-  Dev de Sucesso 
-  <img alt="Dev de Sucesso"  src="github/logo.png" width="30">
-</h1>
 
 <table align="center">
   <tr>
