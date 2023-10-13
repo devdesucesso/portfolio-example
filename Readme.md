@@ -39,7 +39,7 @@ Portfólio desenvolvido para ajudá-lo a exibir e compartilhar facilmente seus t
 
 ## ⚙️ Configurações
 
-Siga a documentação do [Github pages](https://pages.github.com/) para configurar e gerar build do seu site!.
+Siga a documentação do [GitHub Pages](https://pages.github.com/) para configurar e gerar build do seu site!.
 
 <h1 align="center">
   <img alt="Dev de Sucesso" src="github/logo.png" width="30">
