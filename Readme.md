@@ -37,10 +37,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Portfólio desenvolvido para ajudá-lo a exibir e compartilhar facilmente seus trabalhos, projetos e conquistas. Ele fornece uma maneira simples e elegante de destacar seu talento e experiência profissional.
 
+## ⚙️ Configurações
+
+Siga a documentação do [Github pages](https://pages.github.com/) para configurar e gerar build do seu site!.
+
 <h1 align="center">
   <img alt="Dev de Sucesso" src="github/logo.png" width="30">
 </h1>
 
-## ⚙️ Configurações
 
-Siga a documentação do [Github pages](https://pages.github.com/) para configurar e gerar build do seu site!.
