@@ -1,8 +1,3 @@
-<h1 align="center">
-  <img alt="Dev de Sucesso" title="Dev de Sucesso 🚀" src="github/logo.png" />
-</h1>
-
-<br>
 <table align="center">
   <tr>
     <td>
