@@ -38,5 +38,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Portfólio desenvolvido para ajudá-lo a exibir e compartilhar facilmente seus trabalhos, projetos e conquistas. Ele fornece uma maneira simples e elegante de destacar seu talento e experiência profissional.
 
 <h1 align="center">
-  <img alt="Dev de Sucesso" src="github/logo.png" width="30"> />
+  <img alt="Dev de Sucesso" src="github/logo.png" width="30">
 </h1>
